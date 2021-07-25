@@ -12,5 +12,7 @@ Moment d'entraînement entre pote, nous avons travaillé sur un Dataset qui repr
 
 # Contributeurs
 
+#ChristianLabiem #JessyNdaya #GraceSuana #KetsiaMulapi
+
 # Salutations
 Coucou à toute la team #ChristianLabiem #AnthonyKamoto #GraceSuana #GaetanKwadiamona #JessyNdaya #DjeffKashama #GuelordLuboya #DanLokota #JacobLiyaki : DataScience4All; petite communauté de démocratisation des Sciences de Données pour Tous.
